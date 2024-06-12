@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+body{
+  background-color: #E0FBE2;
+}
+p{
+  color: #000000;
+  font-size: 70px;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif, Helvetica, sans-serif, Times, serif;
+  text-align: center;
+}
+img{
+  height: 120px;
+  margin: 30px;
+}
+.pastel img{
+  height: 400px;
+}
+
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+ .mensaje p{
+   color: #597623;
+   font-size: 50px;
+ }
